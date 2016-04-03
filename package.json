@@ -1,0 +1,16 @@
+{
+  "name": "andyfischer.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyfischer/andyfischer.github.io.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "marked": "^0.3.5"
+  }
+}
