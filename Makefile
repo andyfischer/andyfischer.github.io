@@ -1,5 +1,7 @@
 
-marked := node_modules/.bin/marked
 
-index.html: cv.md
-	$(marked) $< > $@
+%.js:
+	tsc -p .
+
+cv.html: build/Build.js cv.md index.template.html
+	node .

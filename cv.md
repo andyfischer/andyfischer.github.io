@@ -1,7 +1,7 @@
 
-# Andrew Fischer's CV #
+# Andrew Fischer CV #
 
-## Independent exploits ##
+## Projects ##
 
 Various projects on improving the usability and flow of the programming process.
 
@@ -13,9 +13,9 @@ C library for highly optimized immutable values. Actively developed 2015-current
 
 A programming langauge for live coding. Actively developed from 2007-2015.
 
-### Presentations ###
+## Presentations ##
 
-"Introducing Circa" - Presented at Emerging Languages 2010 (as part of OSCON)
+"Live coding with Circa" - Presented at Emerging Languages 2010 (as part of OSCON)
 
 ["Introducing Circa: A dataflow-based Language for Live Coding"](http://liveprogramming.github.io/2013/papers/circa.pdf) - Presented at LIVE 2013 (as part of ICSE)
 
@@ -23,7 +23,7 @@ A programming langauge for live coding. Actively developed from 2007-2015.
 
 ### Shutterfly - 2012-current ###
 
-Retail site for products customized with user photos. Various full-stack work with a focus on rich HTML5 apps. Technologies: ES5, ES6, Backbone, Angular, React, Typescript, Node.js, Docker, Java, JSP, Oracledb.
+Retail site for products customized with user photos. Various full-stack work with a focus on rich HTML5 apps. Technologies: ES5, ES6, Backbone, Angular, React, Typescript, Node.js, Docker, Java, JSP, OracleDB.
 
 ### Onlive - 2007-2012 ###
 
@@ -37,14 +37,16 @@ High resolution facial motion capture for use in film effects. Tools engineer. T
 
 Mobile games development. Technologies: J2ME, C++, BREW
 
-# Education #
+## Education ##
 
 Cornell University '03
 
 B.A. in Psychology, Cognitive Science minor
 
-# Contact info #
+## Contact info ##
 
 andy.fischer@gmail.com
 
 [ndyfschr](https://twitter.com/ndyfschr) on Twitter
+
+[andyfischer](https://github.com/andyfischer) on Github
